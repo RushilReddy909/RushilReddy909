@@ -1,39 +1,38 @@
-👋 Hi there! I'm Rushil Reddy, an undergraduate student from India, currently pursuing a degree in Information Technology. I'm passionate about building scalable web applications and solving real-world problems through code.
+### Hi there, I'm Rushil Reddy 👋
 
-💻 Tech Stack
+Software engineer and final-year B.Tech (IT) student at NIT Raipur, graduating 2026. I like building systems that hold up under load — real-time data pipelines, concurrent job processors, and full-stack platforms with real correctness guarantees, not just happy-path demos.
 
-    Frontend: HTML, CSS, JavaScript, React
+- 🔭 Currently a **Software Engineering Intern @ Futures First**, building a real-time trading terminal (FastAPI + WebSockets + Lightstreamer) streaming oil futures analytics at 8Hz
+- ⚙️ Recently shipped an **async job processing system** on Spring Boot + RabbitMQ sustaining 400+ jobs/sec at 82ms p99
+- 🏆 LeetCode rating 1949 (Top 0.1%), CodeChef Div 2 max 1820, Codeforces Pupil (1390), 1,200+ problems solved
+- 🎮 Outside of code: gaming and anime keep me recharged
 
-    Backend: Node.js, Express.js, Flask
+---
 
-    Database: MongoDB, MySQL
+#### 🛠️ Tech Stack
 
-    Tools & Tech: Git, GitHub, REST APIs, WebSockets, JWT, Postman
+**Languages:** Java, Python, JavaScript, TypeScript, SQL, C/C++
 
-    Other: Bootstrap, Tailwind, ShadCN
+**Backend:** Spring Boot, Spring Data JPA, Spring MVC, Node.js, Express.js, FastAPI, Flask, REST APIs
 
-🧠 Currently Learning
+**Frontend:** React.js, TypeScript, Tailwind CSS, HTML5, CSS3, ShadCN
 
-    System Design
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, VPC), Docker, Kubernetes, Git, Maven
 
-    Advanced DSA in C++
+**Tools:** JUnit 5, Testcontainers, Mockito, Postman, RabbitMQ
 
-    Scalable Web Architecture
+---
 
-    Deployment & DevOps (Docker, Render, Netlify)
+#### 📌 Featured Projects
 
-📚 Projects & Experience
+- **[Async Job Processing System](#)** — Spring Boot 4 + RabbitMQ 4.3 quorum queues sustaining 400+ jobs/sec at 82ms p99 latency. Idempotent consumption via atomic conditional-UPDATE claims and UUID fencing tokens, dual-write problem solved with AFTER COMMIT publishing, hung-worker detection cut from 30 min to 60s. Verified with 22 Testcontainers/Mockito tests.
 
-    Built full-stack applications with authentication, role-based access, real-time features, and responsive UIs
+- **[Movie Ticket Booking System](#)** — Full-stack booking platform (seat hold → payment → confirmation) with server-side Razorpay signature verification, double-booking prevention via a database partial unique index, JWT auth across 7 role-scoped resource groups, and a 4-state booking lifecycle with automatic expiry.
 
-    Completed a Python Development Internship
+- **[Neocure Hospital](#)** — Polyglot microservice system splitting a Node/Express API from a Flask ML inference service (scikit-learn, <300ms per request), with graceful degradation, 3 role-based dashboards, and Locust load testing at 100+ concurrent users.
 
-    Developed a Currency Converter with global API support
+---
 
-    Created a Quiz-based Live App using WebSockets
+#### 📫 Reach me
 
-    Working on a Hospital Management System with admin panel and role-specific dashboards
-
-🎮 Outside of code, you’ll find me gaming or watching anime — it keeps me creative and refreshed.
-
-🚀 Always looking to grow, collaborate, and contribute to meaningful projects. Let’s connect!
+[LinkedIn](https://www.linkedin.com/in/rushil-reddy-4643711b0/) · [GitHub](https://github.com/RushilReddy909) · [LeetCode](https://leetcode.com/rushilreddy000https://leetcode.com/rushilreddy000) · [Codeforces](https://codeforces.com/profile/RushilReddy) · [CodeChef](https://www.codechef.com/users/rushilreddy) · rushilreddy000@gmail.com
