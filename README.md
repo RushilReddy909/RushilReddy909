@@ -2,7 +2,7 @@
 
 Software engineer and final-year B.Tech (IT) student at NIT Raipur, graduating 2026. I like building systems that hold up under load — real-time data pipelines, concurrent job processors, and full-stack platforms with real correctness guarantees, not just happy-path demos.
 
-- 🔭 Currently a **Software Engineering Intern @ Futures First**, building a real-time trading terminal (FastAPI + WebSockets + Lightstreamer) streaming oil futures analytics at 8Hz
+- 🔭 Completed a **Software Engineering Intern @ Futures First**, building a real-time trading terminal (FastAPI + WebSockets + Lightstreamer) streaming oil futures analytics at 8Hz
 - ⚙️ Recently shipped an **async job processing system** on Spring Boot + RabbitMQ sustaining 400+ jobs/sec at 82ms p99
 - 🏆 LeetCode rating 1949 (Top 0.1%), CodeChef Div 2 max 1820, Codeforces Pupil (1390), 1,200+ problems solved
 - 🎮 Outside of code: gaming and anime keep me recharged
